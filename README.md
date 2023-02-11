@@ -2,4 +2,4 @@
 HTML 1st try
 
 live preview
-https://github.com/zawadadnan-chy/web-1
+https://zawadadnan-chy.github.io/web-1/
